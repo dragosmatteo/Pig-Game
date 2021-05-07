@@ -1,3 +1,3 @@
 # Pig-Game
 
-Have fun! :
+Have fun! :)
